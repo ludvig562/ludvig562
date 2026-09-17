@@ -1,6 +1,6 @@
-<h2 align="center">Hi 👋, I'm</h2>
+<h2 >Hi 👋, I'm</h2>
 
-<h3 align="center">a student in .Net fullstack development from Sweden </h3>
+<h3 >a student in .Net fullstack development from Sweden </h3>
 
 - 📫 How to reach me **ludvig.he07@gmail.com**
 
