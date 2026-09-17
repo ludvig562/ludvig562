@@ -2,7 +2,7 @@
 
 - 📫 How to reach me **ludvig.he07@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
